@@ -6,17 +6,22 @@
 程序员笔记本
 ===========
 
-.. include:: README.rst
+未完待续。
 
 .. toctree::
    :maxdepth: 2
    :caption: 开发环境:
 
-   dev/vscode/vscode
+   dev/dev
 
 .. toctree::
    :maxdepth: 2
    :caption: 编程语言:
 
-   lang/cpp/cpp
-   lang/python/python
+   lang/lang
+
+.. toctree::
+   :maxdepth: 2
+   :caption: 编写文档
+
+   docs/docs

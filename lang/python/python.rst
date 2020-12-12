@@ -1,4 +1,0 @@
-Python
-######
-
-.. include:: with.rst

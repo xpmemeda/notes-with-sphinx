@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = '熊鹏的笔记'
+project = '程序员笔记本'
 copyright = '2020, Peng Xiong'
 author = 'Peng Xiong'
 
