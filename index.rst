@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-程序员笔记本
+小鲤鱼历险记
 ===========
 
 未完待续。
@@ -25,3 +25,9 @@
    :caption: 编写文档
 
    docs/docs
+
+.. toctree::
+   :maxdepth: 2
+   :caption: 集成测试
+
+   ci/ci

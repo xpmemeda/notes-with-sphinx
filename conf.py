@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = '程序员笔记本'
+project = '小鲤鱼历险记'
 copyright = '2020, Peng Xiong'
 author = 'Peng Xiong'
 
