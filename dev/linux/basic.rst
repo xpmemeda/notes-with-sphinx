@@ -4,9 +4,9 @@
 创建带有sudo权限的用户
 ---------------------
 
-::  
+.. code-block:: shell
 
-   useradd user_name -m -G sudo
+   useradd <user_name> -m -G sudo
 
 .. note::
 
@@ -15,6 +15,13 @@
    -G 指明该用户所在的用户组，而 `sudo` 是系统默认拥有sudo权限的用户组
 
    更多命令参数可以通过 `useradd -h` 来查看
+
+也可以给一个已存在用户赋予sudo权限：
+
+.. code-block:: shell
+
+   usermod <user_name> -a -G sudo
+
 
 安装oh-my-zsh
 -------------
@@ -25,16 +32,16 @@ oh-my-zsh则承担了zsh各类插件的管理工作。
 
 首先需要在Linux系统上安装zsh
 
-:: 
+.. code-block:: shell 
 
    sudo apt update
    sudo apt install zsh
 
 修改登录时启用的终端类型
 
-:: 
+.. code-block:: shell
 
-   sudo usermod -s /bin/zsh
+   usermod <user_name> -s /bin/zsh
 
 
 从github下载安装 `oh-my-zsh <https://github.com/ohmyzsh/ohmyzsh>`_，详见 `README.md`。

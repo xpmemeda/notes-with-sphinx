@@ -20,6 +20,8 @@
 在vscode中设置字体
 -----------------
 
+.. _修改vscode字体:
+
 在vscode的 `setting.json` 文件中增加一行：
 
 .. code-block::
