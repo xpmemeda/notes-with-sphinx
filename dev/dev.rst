@@ -3,6 +3,10 @@ Linux
 
 .. include:: linux/basic.rst
 
+.. include:: linux/path.rst
+
+.. include:: linux/shell.rst
+
 vscode
 ######
 
