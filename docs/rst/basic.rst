@@ -113,3 +113,39 @@
 .. note::
 
    使用 `tabularcolumns` 指令时，表格内容不需要缩进
+
+- 公式
+
+行内公式 :math:`A_c = (\pi / 4) d ^ 2`
+
+:: 
+
+    :math:`A_c = (\pi / 4) d^2`
+
+整行公式
+
+.. math:: 
+
+    \alpha{}_t(i) = P(O_1, O_2, ..., O_t, q_t = \lambda{} S_i)
+
+:: 
+
+   .. math:: 
+
+      \alpha{}_t(i) = P(O_1, O_2, ..., O_t, q_t = \lambda{} S_i)
+
+- 图片链接
+
+指令后面接文件相对路径（本地文件）或者网络地址。
+
+:: 
+
+    .. image:: https://github.com/xpmemeda/notes-with-sphinx/blob/master/files/sea.png
+
+效果如下：
+
+.. image:: https://github.com/xpmemeda/notes-with-sphinx/raw/master/files/sea.png
+
+.. warning::
+
+    ``.. image::`` 指令不可以换行。
