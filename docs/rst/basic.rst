@@ -140,7 +140,7 @@
 
 :: 
 
-    .. image:: https://github.com/xpmemeda/notes-with-sphinx/blob/master/files/sea.png
+    .. image:: https://github.com/xpmemeda/notes-with-sphinx/raw/master/files/sea.png
 
 效果如下：
 

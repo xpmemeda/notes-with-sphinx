@@ -22,6 +22,12 @@
 
 .. toctree::
    :maxdepth: 2
+   :caption: 编译和安装
+
+   construction/construction
+
+.. toctree::
+   :maxdepth: 2
    :caption: 编写文档
 
    docs/docs
