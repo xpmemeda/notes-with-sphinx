@@ -22,9 +22,9 @@
 
 .. toctree::
    :maxdepth: 2
-   :caption: 编译和安装
+   :caption: 构建工具
 
-   construction/construction
+   chore/chore
 
 .. toctree::
    :maxdepth: 2
