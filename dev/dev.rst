@@ -17,3 +17,8 @@ vscode
 .. include:: vscode/remote.rst
 
 .. include:: vscode/font.rst
+
+git
+###
+
+.. include:: git/advanced.rst
