@@ -24,3 +24,4 @@ json 文件以字典的形式存在，比如 修改vscode字体_。
 - `CMake` 文本高亮
 - `reStructuredText` rst文件预览
 - `Markdown Preview Enhanced` md文件预览
+- `Clang-Format` 格式化c++文件

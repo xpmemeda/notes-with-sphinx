@@ -12,4 +12,4 @@ C++
 Python
 ######
 
-.. include:: python/with.rst
+.. include:: python/contextlib.rst
