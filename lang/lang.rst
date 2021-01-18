@@ -14,9 +14,7 @@ C++
 
 .. include:: cpp/initializer_list.rst
 
-.. include:: cpp/default-and-delete-specifiers.rst
-
-.. include:: cpp/override-and-final-specifiers.rst
+.. include:: cpp/keywords.rst
 
 .. include:: cpp/lambda.rst
 

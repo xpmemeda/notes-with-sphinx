@@ -1,11 +1,9 @@
 C++11的新特性列表
 ================
 
+- :ref:`新增关键字`
+
 - :ref:`初始化列表`
-
-- :ref:`default和delete关键字`
-
-- :ref:`override和final关键字`
 
 - :ref:`lambda表达式`
 
