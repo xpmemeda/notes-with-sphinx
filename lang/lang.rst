@@ -10,6 +10,8 @@ C++
 
 .. include:: cpp/tuple.rst
 
+.. include:: cpp/variant.rst
+
 .. include:: cpp/class.rst
 
 .. include:: cpp/initializer_list.rst
