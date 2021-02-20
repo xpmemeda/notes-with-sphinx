@@ -3,6 +3,8 @@ Python
 
 .. include:: python/contextlib.rst
 
+.. include:: python/magic-method.rst
+
 C++
 ####
 
